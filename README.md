@@ -1,12 +1,14 @@
 # watchlist_bloc_assignment
 
+![Watchlist Demo](demo.gif)
+
 A professional-grade stock watchlist implementation focusing on smooth reordering logic, built with the **BLoC (Business Logic Component)** pattern.
 
-## Overview
+## 🚀 Overview
 
 This project demonstrates a real-time-ready watchlist where users can swap stock positions. The implementation focuses on state predictability, high-performance rendering, and a clean, modular code structure suitable for a production-level trading app.
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - **Framework:** Flutter
 - **State Management:** [flutter_bloc](https://pub.dev/packages/flutter_bloc)
